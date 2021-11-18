@@ -6,6 +6,5 @@ The project will output a new message about a sign, their lucky item, and what t
 + JavaScript
 + Node.js
 
-## Setup
-cd ../folder
-node script.js
+
+
